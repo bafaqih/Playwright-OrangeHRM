@@ -58,5 +58,5 @@ Use this document as the "Source of Truth" for generating automation scripts. Im
 | **TC-DASH-001** | Positive | Verify Quick Launch Widget | 1. Click "Assign Leave" icon in Quick Launch | Redirects to Assign Leave page. |
 | **TC-DASH-002** | Positive | Check My Actions Widget | 1. Check "My Actions" card visibility | Widget is visible (Validation of specific count is optional). |
 | **TC-DASH-003** | Positive | Check Side Menu Collapse | 1. Click the '<' arrow button in the sidebar | The sidebar menu collapses to just an icon. |
-| **TC-INFO-001** | Negative | Update My Info with invalid Email | 1. Go to My Info > Contact<br>2. Email: "budi.com" (no @) | Error message indicating invalid format. |
+| **TC-INFO-001** | Negative | Update My Info with invalid Email | 1. Go to My Info > Contact<br>2. Email: "hasan.com" (no @) | Error message indicating invalid format. |
 | **TC-INFO-002** | Negative | Upload Profile Picture > 1MB | 1. Click Profile Image<br>2. Upload file > 1MB | Error message "Attachment Size Exceeded" (or similar). |
